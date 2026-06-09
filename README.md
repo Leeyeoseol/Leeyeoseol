@@ -1,13 +1,25 @@
-<div align="center">
+### 🎐🍶🩵💙🪼💍
 
-🎐🍶🩵💙🪼💍🫧
+### About Me
 
-<a href="https://velog.io/@seollyu/posts" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-<a href="mailto:iyeoseol096@gmail.com" target="_blank"><img src="https://img.shields.io/badge/elyoseol096@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+- 🌊 Building: Supabase and DB project
+- 📘 Learning: JavaScript, Python, Database, Data Structures
+- ⚙️ Focused on improving backend and data-handling skills through practice
+- 📫 Contact: iyeoseol096@gmail.com
 
-## 🛠 Tech Stack
+### Links
 
-<p>
+<a href="https://velog.io/@seollyu/posts" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+</a>
+
+<a href="mailto:iyeoseol096@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/iyeoseol096%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+### 🛠 Tech Stack
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
@@ -18,9 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
-
-## 📊 GitHub Activity
+### 📊 GitHub Activity
 
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="85%"/>
-
-</div>
