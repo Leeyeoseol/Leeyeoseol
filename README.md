@@ -2,10 +2,10 @@
 
 ### About Me
 
-- 🌊 Building: Supabase and DB project
-- 📘 Learning: JavaScript, Python, Database, Data Structures
-- ⚙️ Focused on improving backend and data-handling skills through practice
-- 📫 Contact: iyeoseol096@gmail.com
+- 🌊 Building: Supabase & Database
+- 📘 Learning: JavaScript, Python, Data Structures
+- ⚙️ Backend & Data Handling
+- 📫 iyeoseol096@gmail.com
 
 ### Links
 
@@ -26,10 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
 ### 📊 GitHub Activity
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="85%"/>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="70%"/>
