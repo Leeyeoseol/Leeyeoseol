@@ -4,11 +4,6 @@
 <summary><b>👀 About Me</b></summary>
 <br>
 
-- 🌊 Building: Supabase & Database
-- 📘 Learning: JavaScript, Python, Data Structures
-- ⚙️ Backend & Data Handling
-- 📫 iyeoseol096@gmail.com
-
 </details>
 
 ### Links
